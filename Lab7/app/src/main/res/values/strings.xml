@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpeakApp</string>
+    <string name="tap_to_open_mic">Tap to Open Mic</string>
+    <string name="listen_it">LISTEN IT!</string>
+</resources>
